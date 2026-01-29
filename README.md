@@ -4,13 +4,19 @@
 
 ### About me
 
-Hey, I'm Luca, a passionate computer science student and software developer from Germany. I've been programming with enthusiasm for over seven years and started my studies three years ago. Currently, I've been working for two and a half years at an exciting fintech startup as part of my dual studies. On the side, I've also worked as a freelancer on Fiverr and have risen to Seller Level 2.
+Hey, I’m Luca, a passionate computer science graduate and software developer from Germany. I’ve been programming with enthusiasm as a hobby since school and started my studies in 2021 after graduating.
+
+I began my dual studies in April 2022 at a fintech startup, where I worked mainly as an AQA (Automation Quality Assurance) Engineer until June 2024, gaining over two years of hands-on experience in a fast-paced startup environment.
+
+Since June 2024, I’ve been working at a mid-sized company in Berlin, where I initially joined through my dual studies and now work full-time as a developer. I completed my studies by submitting my bachelor’s thesis in October 2025 and am no longer enrolled.
+
+Alongside my studies and early career, I also worked as a freelance developer on Fiverr, achieving Seller Level 2. I eventually stopped freelancing, as balancing it with my dual studies and professional work became too demanding.
 
 ### My Skills
 
-- **Programming:** My main focus is currently on Python, but I also have experience with C, C++, Golang, Haskell, Pascal, Java, JavaScript, and HTML.  
-- **Paradigms:** I enjoy working procedurally and have extensive experience in object-oriented programming.  
-- **[Experience](https://share.k0ntr4.de/share/my_cv):** Through my work in the fintech startup, freelancing on Fiverr, and personal projects, I have practical experience in implementing customized programming projects, desktop automations, and code reviews.
+- **Programming:** My main focus is currently on Python, C# and Java. I also have experience with C, C++, Golang, Haskell, Pascal, JavaScript, and HTML.
+- **Paradigms:** I enjoy working procedurally and have extensive experience with object-oriented programming.
+- **Experience:** My background as an AQA Engineer, full-time developer, and former freelancer has given me practical skills in automated testing, backend development, code reviews, and implementing tailored software solutions.
 
 <p align="center">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -31,9 +37,9 @@ Hey, I'm Luca, a passionate computer science student and software developer from
 
 ### What I do
 
-- **Studies:** I'm currently in a dual study program for computer science, deepening my knowledge of new technologies and programming paradigms.  
-- **Work:** In my job at the fintech startup, I work on exciting projects shaping the future of financial technology.  
-- **Freelancing:** As a Seller Level 2 on Fiverr, I've offered my programming services and completed a variety of client projects.
+- **Work:** I currently work full-time as a software developer at a mid-sized company in Berlin. Previously, I spent over two years at a fintech startup, where I worked mainly as an Automation Quality Assurance (AQA) Engineer, focusing on automated testing and software quality.
+- **Freelancing:** I gained practical experience offering programming services as a Seller Level 2 on Fiverr. I decided to stop freelancing to focus on my studies and full-time professional work.
+- **Projects & Experience:** Through my professional roles and personal projects, I have gained hands-on experience in software development, automated testing, desktop automations, code reviews, and building customized software solutions.
 
 ### What drives me
 
